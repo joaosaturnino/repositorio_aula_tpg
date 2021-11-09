@@ -1,7 +1,7 @@
-object Form1: TForm1
+object fmr_exemplo: Tfmr_exemplo
   Left = 0
   Top = 0
-  Caption = 'Form1'
+  Caption = 'fmr_exemplo'
   ClientHeight = 242
   ClientWidth = 527
   Color = clBtnFace
@@ -13,7 +13,7 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 25
-  object Panel1: TPanel
+  object pnl_principal: TPanel
     Left = 0
     Top = 0
     Width = 529

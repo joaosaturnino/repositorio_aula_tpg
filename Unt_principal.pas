@@ -7,8 +7,8 @@ uses
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls;
 
 type
-  TForm1 = class(TForm)
-    Panel1: TPanel;
+  Tfmr_exemplo = class(TForm)
+    pnl_principal: TPanel;
     btn_menssage1: TButton;
     btn_menssage2: TButton;
     Edit1: TEdit;
@@ -20,7 +20,7 @@ type
   end;
 
 var
-  Form1: TForm1;
+  fmr_exemplo: Tfmr_exemplo;
 
 implementation
 
